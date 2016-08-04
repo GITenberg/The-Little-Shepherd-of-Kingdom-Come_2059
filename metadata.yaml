@@ -1,0 +1,33 @@
+_repo: The-Little-Shepherd-of-Kingdom-Come_2059
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fox, John
+    alias: Fox, John William
+    birthdate: 1863
+    deathdate: 1919
+    gutenberg_agent_id: '179'
+    url: http://www.gutenberg.org/2009/agents/179
+    wikipedia: http://en.wikipedia.org/wiki/John_Fox%2C_Jr.
+description: ''
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- US Civil War
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Kentucky -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+- !lcsh 'Cumberland Mountains -- Fiction'
+- !lcc 'PS'
+- !lcsh 'War stories'
+- GITenberg
+title: The Little Shepherd of Kingdom Come
+url: http://www.gutenberg.org/ebooks/2059
